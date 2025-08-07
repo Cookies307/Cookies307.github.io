@@ -1,11 +1,10 @@
 ---
-title: VulnLab -- Baby2 Writeup
-date: 2025-03-30 00:00:00 +0800
-categories: [windows machine]
-tags: [Active Directory,ACLs,GPO Abuse]
-image:
-    path: images/baby2-banner.png
+layout: post
+title: "Baby2 Write-up"
+date: 2025-08-07 11:15:00 +0300
+categories: security
 ---
+
 # Baby2
 
 Hello Friends,
